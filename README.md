@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lawson 👋</h1>
 
 <p align="center">
-  Physics undergraduate at <b>UC San Diego</b><br>
+  Physics + Cognitive Science undergraduate at <b>UC San Diego</b><br>
   Exploring intelligence through physics, cognition, and computation.
 </p>
 
