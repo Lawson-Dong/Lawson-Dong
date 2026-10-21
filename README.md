@@ -22,6 +22,7 @@
 
 <p align="center">
   <a href="https://lawson-dong.vercel.app/">Website</a> ·
+  <a href="https://dev.to/lawson_dong">DEV Community</a> ·
   <a href="https://github.com/Lawson-Dong/representation-alignment-">Research</a> ·
   <a href="https://github.com/Lawson-Dong/agent-skill">Agent Skills</a> ·
   <a href="https://github.com/Lawson-Dong/leetcode-solution">LeetCode</a>
